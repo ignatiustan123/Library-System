@@ -1,0 +1,6 @@
+DELETE FROM Author;
+DELETE FROM Borrows;
+DELETE FROM Reserves;
+DELETE FROM Fine;
+DELETE FROM Member;
+DELETE FROM Book;
